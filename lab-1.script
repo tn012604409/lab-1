@@ -1,0 +1,18 @@
+Script started on 2015年03月10日 (週二) 20時17分34秒
+]0;F74036116@2015cpp: ~F74036116@2015cpp:~$ who ami[1Pami[C[C[C; pwd
+F74036116
+/home/F74036116
+]0;F74036116@2015cpp: ~F74036116@2015cpp:~$ who am i[K[K[K[K[Kami;
+F74036116
+]0;F74036116@2015cpp: ~F74036116@2015cpp:~$ pwd
+/home/F74036116
+]0;F74036116@2015cpp: ~F74036116@2015cpp:~$ ls
+[0m[01;34mlab-1[0m  lab_1.script  lab-1.script
+]0;F74036116@2015cpp: ~F74036116@2015cpp:~$ rm lab_1.script
+]0;F74036116@2015cpp: ~F74036116@2015cpp:~$ ls
+[0m[01;34mlab-1[0m  lab-1.script
+]0;F74036116@2015cpp: ~F74036116@2015cpp:~$ git clonr[Ke https://github.com/tn012604409/lab-1.git
+fatal: destination path 'lab-1' already exists and is not an empty directory.
+]0;F74036116@2015cpp: ~F74036116@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 20時20分00秒
